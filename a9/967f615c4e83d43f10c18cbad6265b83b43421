@@ -1,5 +1,7 @@
 service.txt
   s_385f5f2cb29e46::t_ba430337176be7 1
+model.txt
+  s_385f5f2cb29e46::t_e016f7d47b7722 1
 ---
 {
   "schema_version": "authorship/3.0.0",
