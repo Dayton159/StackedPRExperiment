@@ -1,0 +1,19 @@
+Docs/third-run-clean-control.md
+  s_cdac77335094aa::t_7d34d994a5b522 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.11",
+  "base_commit_sha": "3fc104ce92df33788868df4e355f965477edbe66",
+  "prompts": {},
+  "sessions": {
+    "s_cdac77335094aa": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "772fdc90-b701-4b7c-9909-a688ef7d0e3a",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Dayton <dayton159@gmail.com>"
+    }
+  }
+}
