@@ -1,0 +1,19 @@
+.trunk-mover-3b.txt
+  s_cdac77335094aa::t_c8216960898723 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.11",
+  "base_commit_sha": "fe3270352df0f0672bb2fcd1635cacfdcc39516c",
+  "prompts": {},
+  "sessions": {
+    "s_cdac77335094aa": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "772fdc90-b701-4b7c-9909-a688ef7d0e3a",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Dayton <dayton159@gmail.com>"
+    }
+  }
+}
