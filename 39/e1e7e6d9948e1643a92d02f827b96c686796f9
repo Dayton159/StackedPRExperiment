@@ -1,0 +1,19 @@
+trunk4.txt
+  s_208e1847120c27::t_09a22ab08e0d1c 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.11",
+  "base_commit_sha": "39e1e7e6d9948e1643a92d02f827b96c686796f9",
+  "prompts": {},
+  "sessions": {
+    "s_208e1847120c27": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "1dc4c92a-16a4-4ac0-ab12-a74ba35fb752",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Dayton <dayton159@gmail.com>"
+    }
+  }
+}
