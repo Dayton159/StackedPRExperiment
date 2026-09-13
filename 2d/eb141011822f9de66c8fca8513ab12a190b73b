@@ -1,0 +1,19 @@
+trunk9.txt
+  s_c5e7912668dcc6::t_77479ed31b0f4a 2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.11",
+  "base_commit_sha": "2deb141011822f9de66c8fca8513ab12a190b73b",
+  "prompts": {},
+  "sessions": {
+    "s_c5e7912668dcc6": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "402b0726-267c-4ec3-b0ac-df3a89ef157d",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Dayton <dayton159@gmail.com>"
+    }
+  }
+}
