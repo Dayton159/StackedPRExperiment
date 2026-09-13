@@ -1,0 +1,1 @@
+CLI sync path check.
