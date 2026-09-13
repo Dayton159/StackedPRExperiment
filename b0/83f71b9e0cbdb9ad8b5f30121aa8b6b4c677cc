@@ -1,0 +1,19 @@
+Docs/api-notes-2.md
+  s_c5e7912668dcc6::t_1218cc9967457a 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.11",
+  "base_commit_sha": "b083f71b9e0cbdb9ad8b5f30121aa8b6b4c677cc",
+  "prompts": {},
+  "sessions": {
+    "s_c5e7912668dcc6": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "402b0726-267c-4ec3-b0ac-df3a89ef157d",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Dayton <dayton159@gmail.com>"
+    }
+  }
+}
