@@ -1,0 +1,19 @@
+lhold-202610202251-h6.txt
+  s_66b7f904ac3085::t_16e2464c6f7c9a 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.11",
+  "base_commit_sha": "2bf20080d1df08532529e5711992278b43182fa2",
+  "prompts": {},
+  "sessions": {
+    "s_66b7f904ac3085": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_66b7f904ac3085",
+        "model": "unknown"
+      },
+      "human_author": "Dayton <dayton159@gmail.com>"
+    }
+  }
+}
