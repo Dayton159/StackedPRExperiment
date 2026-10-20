@@ -1,0 +1,19 @@
+lhold-202610202023-h3.txt
+  s_871b75e59a1f02::t_cb7424ad980816 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.11",
+  "base_commit_sha": "4f116c5aa0a5bc501f206983e6f191c757161604",
+  "prompts": {},
+  "sessions": {
+    "s_871b75e59a1f02": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_871b75e59a1f02",
+        "model": "unknown"
+      },
+      "human_author": "Dayton <dayton159@gmail.com>"
+    }
+  }
+}
