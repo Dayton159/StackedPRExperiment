@@ -1,0 +1,19 @@
+lhold-202610202251-h4.txt
+  s_0fde69046fb7ea::t_d694152f961329 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.11",
+  "base_commit_sha": "b37f97498166cfe7b9f034a0132579d88b34c1e2",
+  "prompts": {},
+  "sessions": {
+    "s_0fde69046fb7ea": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_0fde69046fb7ea",
+        "model": "unknown"
+      },
+      "human_author": "Dayton <dayton159@gmail.com>"
+    }
+  }
+}
