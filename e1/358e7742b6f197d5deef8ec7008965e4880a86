@@ -1,0 +1,19 @@
+lhold-202610202251-h5.txt
+  s_159bc9c7f5b74f::t_961e53fbd5116e 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.11",
+  "base_commit_sha": "e1358e7742b6f197d5deef8ec7008965e4880a86",
+  "prompts": {},
+  "sessions": {
+    "s_159bc9c7f5b74f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_159bc9c7f5b74f",
+        "model": "unknown"
+      },
+      "human_author": "Dayton <dayton159@gmail.com>"
+    }
+  }
+}
